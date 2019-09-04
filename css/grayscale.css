@@ -176,6 +176,21 @@
   margin-bottom: 5rem;
 }
 
+.about-section .facebook-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.about-section .facebook-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
