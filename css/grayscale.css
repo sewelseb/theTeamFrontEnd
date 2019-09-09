@@ -191,6 +191,10 @@
   position: absolute;
 }
 
+.about-section .no-margin-right {
+  margin-right: 0;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
